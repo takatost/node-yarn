@@ -1,4 +1,4 @@
-FROM node:8.16-alpine
+FROM node:12.18.2-alpine
 
 MAINTAINER JohnWang <wangjiajun@vchangyi.com>
 
